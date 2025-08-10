@@ -11,7 +11,7 @@ Each folder corresponds to a day's project, with a brief note on what I learned 
 
 | Day | Project             | Progress / Learning Summary                                | Link                                          |
 | --- | ------------------- | ---------------------------------------------------------- | --------------------------------------------- |
-| 1   | Band Name Generator | Refreshed on taking user input and basic string handling.  |  [Repo ]([url](https://github.com/Seelan444/100_Days_of_Python-Udemy/blob/main/Beginner/Day%201%20-%20Band%20Name%20Generator/main.py))                                        |
+| 1   | Band Name Generator | Refreshed on taking user input and basic string handling.  |  Repo                                       |
 | 2   | Tip Calculator      | Practiced user input and arithmetic operations.            | [Repo](Day%202%20-%20Tip%20Calculator)        |
 | 3   | Treasure Island     | Learned conditional statements and branching logic.        | [Repo](Day%203%20-%20Treasure%20Island)       |
 | 4   | Rock Paper Scissors | Implemented game logic using random choice and if-else.    | [Repo](Day%204%20-%20Rock%20Paper%20Sciccors) |
