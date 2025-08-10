@@ -1,4 +1,3 @@
-[python_100_days_of_code.md](https://github.com/user-attachments/files/21704066/python_100_days_of_code.md)
 # Python-100-Days-of-Code
 
 Hello,
@@ -6,7 +5,7 @@ Hello,
 This repository contains my journey of completing **100 Days of Python Code** inspired by Dr. Angela Yu's [Udemy Course](https://www.udemy.com/course/100-days-of-code/).
 
 ## Beginner
-Day 01: Working with Variables in Python to Manage Data — Band Name Generator  
+Day 01: Working with Variables in Python to Manage Data                              — Band Name Generator
 Day 02: Understanding Data Types and How to Manipulate Strings — Tip Calculator  
 Day 03: Control Flow and Logical Operators — Treasure Island  
 Day 04: Randomisation and Python Lists — Rock Paper Scissors  
