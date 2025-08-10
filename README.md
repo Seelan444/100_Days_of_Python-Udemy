@@ -1,5 +1,4 @@
-[python_100_days_of_code.md](https://github.com/user-attachments/files/21704110/python_100_days_of_code.md)
-# Python-100-Days-of-Code
+# 100-Days-of-Code
 
 Hello, fellow's
 
